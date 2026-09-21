@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm skshm01
 
-### 🚀 Building ideas into useful software, one project at a time
+### 🚀 Building useful ideas into software people can actually use
 
 <p>
   <a href="https://github.com/skshm01"><img src="https://img.shields.io/github/followers/skshm01?label=Followers&style=for-the-badge&color=00e5ff&labelColor=0d1117" alt="GitHub followers" /></a>
@@ -15,12 +15,12 @@
 ---
 
 ```text
-┌───────────────────────────────────────────────────────────┐
+┌────────────────────────────────────────────────────────────┐
 │  STATUS       : 🟢 ONLINE & BUILDING                    │
 │  FOCUS        : AI • Full-Stack • Product Thinking     │
 │  STACK        : JavaScript • Python • React            │
-│  CURRENT ARC  : Sahara + learning + real-world builds  │
-└───────────────────────────────────────────────────────────┘
+│  CURRENT ARC  : Sahara + learning + practical builds   │
+└────────────────────────────────────────────────────────────┘
 ```
 
 ```js
@@ -28,7 +28,7 @@ const skshm01 = {
   name: "Saksham Agrawal",
   role: "Student Developer",
   tagline: "Turning curiosity into working software",
-  interests: ["AI", "Web Apps", "Problem Solving", "Product Thinking"],
+  interests: ["AI", "Web Apps", "Product Thinking", "Problem Solving"],
   currentlyBuilding: ["Sahara", "labs", "experiments"],
   openTo: ["collaborations", "learning", "cool ideas"],
 };
@@ -38,21 +38,21 @@ const skshm01 = {
 
 ## ✨ About Me
 
-- 🎓 Exploring software engineering through labs, projects, and practical experiments
-- 🧠 Interested in AI-powered products and meaningful user-focused technology
-- 🌱 Always learning, improving, and turning ideas into working software
-- 💻 Building tools that are simple, useful, and genuinely helpful
+- 🎓 Exploring software engineering through labs, projects, and real-world experiments
+- 🧠 Interested in AI-powered products and meaningful user-centered technology
+- 🌱 Always learning, improving, and turning ideas into useful software
+- 💻 Building tools that are practical, simple, and genuinely helpful
 - 🤝 Open to collaboration, feedback, and exciting opportunities
 
 ---
 
-## 🧠 Currently Building
+## 🧠 Featured Projects
 
 | Project | What it does |
 |---|---|
-| 🌱 **[Sahara](https://github.com/skshm01/sahara)** | AI-powered student wellbeing and early-support platform focused on making support more accessible and proactive. |
-| 🧪 **[SCSE3040-Lab](https://github.com/skshm01/SCSE3040-Lab)** | Lab projects and hands-on coding work for learning core engineering concepts. |
-| 📚 **[P02-s24cseu1692](https://github.com/skshm01/P02-s24cseu1692)** | A project workspace for course-related development and experimentation. |
+| 🌱 **[Sahara](https://github.com/skshm01/sahara)** | AI-powered student wellbeing and early-support platform focused on accessibility and proactive care. |
+| 🧪 **[SCSE3040-Lab](https://github.com/skshm01/SCSE3040-Lab)** | Practical lab work and coding experiments to deepen software engineering fundamentals. |
+| 📚 **[P02-s24cseu1692](https://github.com/skshm01/P02-s24cseu1692)** | A project workspace for coursework, prototypes, and continuous learning. |
 
 ---
 
@@ -92,7 +92,7 @@ const skshm01 = {
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Activity
 
 <div align="center">
 
